@@ -1,0 +1,26 @@
+#!usr/bin/bash
+grep '^1\s' 00-All.vcf > chr1.00-All.vcf
+grep '^2\s' 00-All.vcf > chr2.00-All.vcf
+grep '^3' 00-All.vcf > chr3.00-All.vcf
+grep '^4' 00-All.vcf > chr4.00-All.vcf
+grep '^5' 00-All.vcf > chr5.00-All.vcf
+grep '^6' 00-All.vcf > chr6.00-All.vcf
+grep '^7' 00-All.vcf > chr7.00-All.vcf
+grep '^8' 00-All.vcf > chr8.00-All.vcf
+grep '^9' 00-All.vcf > chr9.00-All.vcf
+grep '^10' 00-All.vcf > chr10.00-All.vcf
+grep '^11' 00-All.vcf > chr11.00-All.vcf
+grep '^12' 00-All.vcf > chr12.00-All.vcf
+grep '^13' 00-All.vcf > chr13.00-All.vcf
+grep '^14' 00-All.vcf > chr14.00-All.vcf
+grep '^15' 00-All.vcf > chr15.00-All.vcf
+grep '^16' 00-All.vcf > chr16.00-All.vcf
+grep '^17' 00-All.vcf > chr17.00-All.vcf
+grep '^18' 00-All.vcf > chr18.00-All.vcf
+grep '^19' 00-All.vcf > chr19.00-All.vcf
+grep '^20' 00-All.vcf > chr20.00-All.vcf
+grep '^21' 00-All.vcf > chr21.00-All.vcf
+grep '^22' 00-All.vcf > chr22.00-All.vcf
+grep '^MT' 00-All.vcf > chrM.00-All.vcf
+grep '^X' 00-All.vcf > chrX.00-All.vcf
+grep '^Y' 00-All.vcf > chrY.00-All.vcf
